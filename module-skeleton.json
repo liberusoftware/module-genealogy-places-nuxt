@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-places-nuxt",
+  "capabilityKey": "liberusoftware/module-genealogy-places",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-genealogy-places-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/genealogy/nextjs/places.md",
+  "presentationPlan": "projects/genealogy/nuxt/places.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
